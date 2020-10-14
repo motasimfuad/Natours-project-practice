@@ -1,0 +1,25 @@
+{
+  "name": "natours-project-practice",
+  "version": "1.0.1",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motasimfuad/Natours-project-practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "motasimfuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motasimfuad/Natours-project-practice/issues"
+  },
+  "homepage": "https://github.com/motasimfuad/Natours-project-practice#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
