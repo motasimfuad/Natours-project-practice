@@ -7,12 +7,12 @@
     }
 
     80% {
-        transform: translateX(1rem);
+        transform: translateX(2rem);
     }
 
     100% {
         opacity: 1;
-        transform: translateX(0);
+        transform: translateX(1rem);
     }
 }
 
@@ -23,12 +23,12 @@
     }
 
     80% {
-        transform: translateX(-1rem);
+        transform: translateX(-2rem);
     }
 
     100% {
         opacity: 1;
-        transform: translateX(0);
+        transform: translateX(-1rem);
     }
 }
 
